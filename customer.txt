@@ -1,1 +1,6 @@
 This file has the customer details..
+
+1. Niriksha.M
+	Place : Salem
+	Contact : abc@gamil.com
+	Requirement : Software
